@@ -1,0 +1,10 @@
+## OBML - Object Markup Language
+
+I've been thinking about this idea recently.
+What if HTML could be shorter?
+What if HTML is type-safe?
+What if HTML looks like a JavaScript Object?
+
+That's why I'm building OBML. I'm creating this just as a fun little interesting project. I don't intend for it to be the "NEXT BIG TREND" or whatever though it would be really cool if that happens (it won't lol).
+
+I'm not sure the direction this is going yet but...let's start with a single JavaScript file.

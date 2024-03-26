@@ -15,9 +15,9 @@ const compileToHTML = (obj) => {
       html += `</${key}>\n`;
     }
   }
-
   html += "</html>";
   return html;
 };
+
 
 console.log(compileToHTML(inputObject));
